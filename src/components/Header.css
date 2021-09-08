@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-top: 2vh;
+    padding-bottom: 1vh;
+
+}
+.text {
+    cursor: pointer;
+}
