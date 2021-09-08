@@ -154,7 +154,7 @@ const FetchData = () => {
         })
       }
       if(result.status=='false'){
-        history.push('/ResultFalilure')
+        history.push('/ResultFailure')
       }
       }else {
         alert.show('Plese select all destinations and vehicles')
